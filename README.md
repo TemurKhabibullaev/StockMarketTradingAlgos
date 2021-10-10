@@ -1,4 +1,4 @@
-# Stock Market Trading Algorithms Result:
+# Stock Market Trading Algorithms Results:
 ![](images/Figure_1.png)
 ![](images/Figure_2.png)
 ![](images/Figure_3.png)
